@@ -37,3 +37,8 @@ Here are some ideas to get you started:
 - 💭 Pronouns: he/him
 - 📫 E-mail: [njaswal.nitish@gmail.com](mailto:njaswal.nitish@gmail.com)
 - 💬 LinkedIn: [@Nitish](https://www.linkedin.com/in/nitish-jaswal-529092153/)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
