@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 - 🐍 Python: baby
 - 🦈 Docker: junior
+- 💽 SQL : Junior 
 - ☕ Java: Junior
 - 📦 JavaScript: junior
 - 👀 C/C++: junior
