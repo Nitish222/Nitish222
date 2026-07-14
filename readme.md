@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitish222&column=-1" alt="Nitish222's GitHub trophy">
-</div>
-
-<hr>
-
-[//]: https://github-readme-stats.vercel.app/api?username=Nitish222&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Nitish%20is%20vibrating
-
-<img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Nitish222&count_private=true&show_icons=true&theme=buefy&custom_title=🛠️%20Nitish%20is%20Building" alt="Nitish222's GitHub Stats">
-
 <!--
 - 🐍 Python: baby
 - 🦈 Docker: junior
