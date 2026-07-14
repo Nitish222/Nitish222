@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Nitish222&count_private=true&show_icons=true&theme=buefy&custom_title=🛠️%20Nitish%20is%20Building" alt="Nitish222's GitHub Stats">
 
+<!--
 - 🐍 Python: baby
 - 🦈 Docker: junior
 - 💽 SQL : Junior 
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 - 💭 Pronouns: he/him
 - 📫 E-mail: [njaswal.nitish@gmail.com](mailto:njaswal.nitish@gmail.com)
 - 💬 LinkedIn: [@Nitish](https://www.linkedin.com/in/nitish-jaswal-529092153/)
-
+-->
 
 
 
